@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iames by the grace of God King of England, Scotland, France and Ireland, defender of the faith, &amp;c. To all and singuler the lord lieutenantes, deputie lieutenants, iustices of the peace, maiors, sheriffes, bayliffes, constables, headboroughs ... greeting. Whereas our well-beloued seruant Edward Sheldon Esquier, one of our pages of honour, hath by his humble petition sued vnto us, to grant vnto him power for the ordering and appoynting of sufficient workemen for the varnishing, dressing, amending, and keeping in repaire of all the armes of the common charge within our said realme ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22231</idno>
+            <idno type="STC">STC 8638</idno>
+            <idno type="STC">ESTC S100956</idno>
+            <idno type="EEBO-CITATION">99836783</idno>
+            <idno type="PROQUEST">99836783</idno>
+            <idno type="VID">1070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22231)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 1070)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1572:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iames by the grace of God King of England, Scotland, France and Ireland, defender of the faith, &amp;c. To all and singuler the lord lieutenantes, deputie lieutenants, iustices of the peace, maiors, sheriffes, bayliffes, constables, headboroughs ... greeting. Whereas our well-beloued seruant Edward Sheldon Esquier, one of our pages of honour, hath by his humble petition sued vnto us, to grant vnto him power for the ordering and appoynting of sufficient workemen for the varnishing, dressing, amending, and keeping in repaire of all the armes of the common charge within our said realme ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[3] sheets   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, and Iohn Bill, printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>Anno Dom. M.DC.XX. [1620]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from opening words of text.</note>
+                  <note>Dated at end: Westminster the eleuenth day of Iulie, in the eighteenth yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armorers --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letters_patent">
+            <pb facs="tcp:1070:1"/>
+            <head>
+               <figure>
+                  <head>I R</head>
+                  <q>DIEV ET MON DROIT.</q>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">I</seg>AMES by the grace of God King of England, Scotland, Fr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ce</hi> and Ireland, Defender of the Faith, &amp;c.</signed>
+               <salute>To all and ſingule<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord Lieutenantes, Deputie Lieutenants, Iuſtices of the P<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce, Maiors, Sheriffes, Bayliffes, Conſtables, Headboroughs, a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> all other the Officers and Miniſters of Vs, Our Heires and Succe<gap reason="illegible" resp="#OXF" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> within Our Realme of England and Dominion of Wales,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all others whom it ſhall or may concerne, Greeting.</salute>
+            </opener>
+            <p>Wh<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>as Our well-beloued ſeruant
+<hi>Edward Sheldon</hi> Eſquier, one of <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pages of Honour, hath by his humble petition ſued vnto V<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> grant vnto him power for the ordering and appoynting of ſuf<g ref="char:EOLunhyphen"/>ficient workemen for the varniſhing, dreſſing, amending, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee<g ref="char:EOLunhyphen"/>ping in repaire of all the Armes of the Common Charge within Our ſaid Realme
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Dominion, according to the rates ſet downe in an order made for the County of York<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Our right truſty and welbeloued <hi>Edmond Lord Sheffeild,</hi> late Preſident of Our Councell i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he North parts; It being found a thing beneficiall to Our Subiects, who heretofore ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>ceaued much loſſe and damage in their Armes, through the vnſkilfulnes of workemen, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad likewiſe much auayling to the furtherance of Our ſeruice when neede ſhall require: <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whereas wee, conceiuing the ſaid ſuite might be requiſite for the good of the Realme,
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re graciouſly pleaſed to referre the Conſideration thereof to Our Commiſſioners for the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Earle Marſhall, to take ſuch order therin for ſatiſfaction of Our ſaid Seruant, as
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in their wiſedomes ſhould think fit: And whereas Our ſaid Commiſſioners vpon <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ticular examination, and conſideration had of the ſaid ſuite, did find and certifie <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, that the ſaid ſuite was fit to be graunted with certaine limitations in the ſaid certif<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ate mentioned:</p>
+            <p>Knowe yee that Wee, aſwell for and in Conſideration of the good ſeruice here<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ore done vnto Vs, by the ſaid <hi>Edward Sheldon,</hi> and at the ſpeciall nomination and requeſt of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſaid <hi>Edward Sheldon,</hi> Haue giuen and granted, and by this preſentes for Vs, Our Heires
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Succeſſours doe giue, and graunt vnto Our welbeloued Subiects, <hi>Laurence Liſle, D<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ll Thornes, Iohn Donington, Robert Harwood, Robert Leming,</hi> and <hi>Francis Thompſon,</hi> and th<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> aſ<g ref="char:EOLhyphen"/>ſignes, full, free, ſole, and abſolute licence, liberty, power, priuiledge Immunity and
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<g ref="char:EOLunhyphen"/>thority, that they and euery or anie of them, and theire and euery of theire Deputies, ſeru<gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> and workemen being ſkilfull in the trade of dreſſing of Armes, ſhall and may from tim<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> time, and at all times during the Terme of yeares hereafter in and by theſe preſ<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es graunted, varniſhe, dreſſe, amend, and keepe in repaire all, and all manner of Armes, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Armour preſerued, kept, or maintained, or which ought to bee preſerued, kept or maintain<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at the common charge of any Countie, Citie, Borough, Towne, or other place or places, aſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell within Liberties as without, within this Our Realme of England, or Dominion of W<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>; Taking for the varniſhment of euery white Corſlet, fiue ſhillings, for dreſſing euery b<gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> Corſlet, twelue pence, for dreſſing euery Muſket or Caliuer, twelue pence; And for <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ring and amending other defects in any of the ſaid Armes and Armors, ſuch ſum, and ſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of money, as betweene the ſaid <hi>Laurence Liſle, Daniel Thornes, Iohn Donington, Robert Harw<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od, Robert Leming,</hi> and
+<hi>Francis Thompſon,</hi> and their aſſignes, workmen or ſeruants, and the par<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> whom the ſame ſhall concerne ſhall be thought fit, concluded, and agreed vpon to be paid <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd anſwered for the ſame. And therefore, Wee doe likewiſe heereby for Vs, Our Heires
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Succeſſours, grant vnto the ſaid
+<hi>Laurence Liſle, Daniel Thornes, Iohn Donington, Robert Harw<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, Robert Leming,</hi> and <hi>Francis Thompſon,</hi> their Aſſignes and Seruants, and euery of them <gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ring the ſaid terme, full power and authoritie, aſwell to demand, aſke, take and receiue, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he parties whom it ſhall concerne, for the varniſhing of euery white Corſlet, Fiue ſhillings
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:1070:2"/>dreſſing euery blacke Corſlet, Twelue pence, for dreſſing euery Muſket or Caliuer, Twe<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> pence, and for repairing and amending of other defects in any of the ſaide Armes or Armou<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, or any other Armes, ſuch ſumme and ſummes of money as ſhall be agreed vpon to be paid <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ſame: as alſo at the will and pleaſure of the ſaid <hi>Laurence Liſle, Daniel Thornes, Iohn Doni<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ton, Robert Harwood, Robert Leming,</hi> and <hi>Francis Thompſon,</hi> their aſſignes, ſeruants, or wor<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>men, to make compoſitions or agreements with any perſon or perſons, bodies politique <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> corporate, for their labour, trauaile, and attendance in and about the varniſhing, dreſſing,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mending, and keeping in repaire from time to time, of any Armes or Armour preſerued for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeruice of Vs, Our Heires or Succeſſors, at any ſuch common charge as
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>foreſaid. a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for which no certaine fee or duty is before limitted, or appointed to be taken and demanded <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceiue and take the ſummes of money, and compoſitions ſo to bee agreed vpon and paid to the<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> owne proper vſe and behoofe. To haue, hold, vſe, exerciſe and enioy the ſaid licences, po<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ers, priuiledges, liberties, immunities and authorities aforeſaid, vnto the ſaid <hi>Laurence L<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, Daniel Thornes, Iohn Donington Robert Harwood, Robert Leming,</hi> and <hi>Francis Thompſon,</hi> their
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>puties and aſſignes, for and during the terme of twentie one yeeres, from the day of the da<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> heereof next and immediately enſuing, and fully to be compleate and ended: And to percei<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> receiue, and take the ſumme and ſummes of money aforeſaid, and all other ſummes of mo<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and compoſitions during the ſaid terme, to ariſe, grow, and to be made, by vertue of this O<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Graunt, vnto the ſaid <hi>Laurence Liſle, Daniel Thornes, Iohn Donington, Robert Harwood, Rob<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Leming,</hi> and <hi>Francis Thompſon,</hi> and their aſſignes, freely and abſolutely without any accomp<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be made to Vs Our Heires or Succeſſors for the ſame.</p>
+            <p>And to the end this Our Grant may take the better effect, Wee doe hereby aſwell ſtr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly charge, command and prohibite all and euery the Subiects of Vs, Our heires and ſuc<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſors, and all other perſon and perſons (other then the ſaid <hi>Laurence Liſle, Daniel Thornes, Io<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Donington, Robert Harwood, Robert Leming</hi> and
+<hi>Francis Thompſon,</hi> their deputies, aſſignes a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſeruants, That they or any of them doe not at any time or times, during the ſaid terme <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one and twenty yeares, attempt, preſume, goe about or take in hand directly, or indirectly <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> varniſh, dreſſe, amend or keepe in repaire any Armes whatſoeuer preſerued for the ſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>uice of Vs, Our Heires and ſucceſſours, at any ſuch common charge as aforeſaid, within th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Our Realme of England, and Dominion of Wales; As alſo all &amp; ſinguler bodies politique a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> corporate, Lord Lieutenants, Deputie Lieutenants, Iuſtices of Peace, Maiors, Shiriff<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Conſtables and other Officers and Miniſters of Vs, our Heires and Succeſſours whatſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>uer, within Our ſaid Realme and Dominion, whom it ſhall or may concerne, That th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or any of them doe not at any time or times during the terme aforeſaid, imploy or vſe any <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther Armorers or other perſon or perſons (other then the ſaid <hi>Laurence Liſle, Daniel Thornes, Io<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Donington, Robert Harwood, Robert Leming</hi> and <hi>Francis Thompſon,</hi> their deputies, workemen <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeruants in the varniſhing, dreſſing, amending or keeping in repaire of any the ſaid Arm<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> kept or maintained vpon common charge, as they tender Our pleaſure, and vpon ſuch pai<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and penalties as may be inflicted vpon the Offendors for contempt of this Our Royall Co<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mandement. And becauſe it may fall out that ſuch Armes of many of the Counties, Citie<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, Townes, or places within this Our Realme and Dominion, ſhal remaine in places one diſta<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> farre from another, or vpon occaſion to be diſperſed abroad from the vſuall places, where t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſame haue beene and ought to be kept, whereby the ſaid
+<hi>Laurence Liſle, Daniel Thornes, Iohn D<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>nington, Robert Harwood, Robert Leming,</hi> and <hi>Francis Thompſon,</hi> and their aſſignes, ſeruants, a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> workemen ſhall be conſtrained to make many iourneys, or elſe bee enforced to ſtay for the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Armes to their great charges and loſſe of their time, Our will and pleaſure is, and Wee d<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hereby for Vs, our Heires and Succeſſors, ordaine, command and appoint, that all and ſing<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ler ſuch common Armes of euerie ſeuerall Liberty and Place, ſhalbe conueyed and brou<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> vnto ſuch place and places, being not too far diſtant or remote, once euery yeare to be viewe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amended and, repaired in manner aforeſaid, and at ſuch conuenient time and times as the
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Laurence Liſle, Daniel Thornes, Iohn Donington, Robert Harwood, Robert Leming</hi> and <hi>Francis Thompſon,</hi> their deputies, aſſignes, ſeruants, or workemen with the conſent of the chiefe Conſtable
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> euery hundred or libertie within which the ſaid Armes ſhalbe or remaine reſpectiuely, ſh<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> thinke fit, ſet downe, limit and appoint.</p>
+            <p>And in caſe any perſon or perſons, hauing the cuſtodie of ſuch common Armes, as aforeſai<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall refuſe to bring the ſame to be viewed and repaired, then vpon certificate to the Comm<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſioners for the Office of Earle Marſhal, or to the Earle Marſhall of England for the time h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing, the partie delinquent ſhall receiue ſuch puniſhment as to the ſaid Commiſſioners or a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> three of them, or to the Earle Marſhall, for the time being, ſhall ſeeme meete. And for th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> better effecting thereof, that the ſaid chiefe Conſtables doe from time to time giue warni<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:1070:3"/>and notice vnto the petty Conſtables within their ſeuerall limits, liberties and precincts, to cauſe the ſaid Armes belonging to their liberties reſpectiuely to be conueyed and brought vnto ſuch conuenient place and places, and at ſuch conuenient time and times once euery yeare, as
+<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>re mentioned or intended, according to the true meaning of theſe pr<gap reason="illegible" resp="#OXF" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>s t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereof We
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>kewiſe hereby for Vs, our Heires and Succeſſors, charge and com<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd, that they nor any of them doe faile in any manner of wiſe.</p>
+            <p>And Our will and pleaſure is, That if the ſaid <hi>Laurence Liſle, Daniel Thornes, Iohn Doning<g ref="char:EOLhyphen"/>ton, Robert Harwood, Robert Leming</hi> and <hi>Francis Thompſon,</hi> their Deputies or Aſſignes ſhall finde the Armes, vſed to be maintained at the common charge, to be diminiſhed, loſt or imbeſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>led, that they doe ſignifie Our will and pleaſure that the ſame ſhall be ſupplyed and renewed by ſuch as ought of right to ſupplie the ſame.</p>
+            <p>Prouided alwaies that if at any time or times hereafter any Sixe or more of the Lords or others of the priuie Counſell of Vs, Our Heires and Succeſſours, vpon iuſt cauſe to them ap<g ref="char:EOLhyphen"/>pearing, ſhall by writing vnder their hands, ſet downe any order in any wiſe touching this Graunt, either in poynt of moderation of any thing contained in it, or in the execution there<g ref="char:EOLunhyphen"/>of: That then the ſayd <hi>Laurence Liſle, Daniel Thornes, Iohn Donington, Robert Harwood, Robert Leming</hi> and <hi>Francis Thompſon,</hi> their Aſſignes and Workemen ſhall obſerue and keepe ſuch order as ſhall be ſo decreed and ſet downe; any thing herein contayned to the contrary not withſtanding.</p>
+            <p>And laſtly Our will and pleaſure is, and Wee doe hereby, for Vs, Our Heires and Suc<g ref="char:EOLhyphen"/>ceſſours charge and command all Captaines, Muſter-maſters and Clerkes of Muſters, to giue true Copies out of their bookes vnto the ſayd <hi>Laurence Liſle, Daniel Thornes, Iohn Doning<g ref="char:EOLunhyphen"/>ton, Robert Harwood, Robert Leming</hi> and <hi>Francis Thompſon,</hi> their Deputies or Aſſignes of all the common Armes and Armour within their ſeuerall charge, and likewiſe all Deputie Lieutenants, Iuſtices of peace, Maiors, Sheriffes, Muſter-maſters and Clerkes of Mu<g ref="char:EOLhyphen"/>ſters, Bayliffes, Conſtables, Headboroughs, and all other the Officers and Miniſters of Vs, Our Heires and Succeſſours, for the time being, from time to time during the terme aforeſayd to be ayding, helping and aſſiſting, to the ſayd <hi>Laurence Liſle, Daniel Thornes, Iohn Do<g ref="char:EOLhyphen"/>nington, Robert Harwood, Robert Leming</hi> and <hi>Francis Thompſon,</hi> their Aſſignes, Seruants and Workemen in all things, tending to the execution of theſe our Letters Patents, according to the purport, and true meaning of the ſame, as they tender the pleaſure of Vs, Our Heires and Succeſſours, and will anſwere the contrarie at their perils.</p>
+            <p>Although expreſſe mention of the true yeerely value or certainty of the premiſſes or any of them, or of any other Gifts or Grants by Vs, or any of Our Progenitours or Predeceſſours to the ſayd <hi>Laurence Liſle, Daniel Thornes, Iohn Donington, Robert Harwood, Robert Leming</hi> and <hi>Francis Thompſon,</hi> or any of them heretofore made in theſe preſents is not made, or any Statute, Acte, Ordinance, Prouiſion, Proclamation or Reſtraint to the contrarie thereof heretofor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had, made, ordayned or prouided, or any other thing, cauſe or matter whatſoeuer in any<g ref="char:EOLhyphen"/>wiſe not withſtanding.</p>
+            <closer>
+               <dateline>
+                  <hi>In witneſſe whereof wee haue cauſed theſe Our Letters to be made Patents: Witneſſe Our ſelfe at Weſt<g ref="char:EOLhyphen"/>minſter</hi>
+                  <date>
+                     <hi>the Eleueneth Day of Iulie, in the Eighteenth Yeere of Our Reigne of England, France and Ireland, and of Scotland the Three and Fiftieth.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. ANNO DOM. M.DC.XX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
